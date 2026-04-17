@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloudBackend.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca982814663e777a074825172755739b4b170f16")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+195091c86987697b9b71b7bef2c96b71da1ab319")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloudBackend.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloudBackend.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
